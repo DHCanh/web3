@@ -1,0 +1,22 @@
+table{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+*{
+    padding: 20px;
+} 
+.header{
+    background-color: rgb(47, 255, 57);
+    color: white;
+}
+.header1{
+    background-color: greenyellow;
+}
+.red{
+    color: red;
+}
+.border{
+    border: 2px solid green ;
+}
